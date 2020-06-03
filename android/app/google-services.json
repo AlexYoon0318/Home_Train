@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096516677738",
+    "firebase_url": "https://hometrain-dfbc2.firebaseio.com",
+    "project_id": "hometrain-dfbc2",
+    "storage_bucket": "hometrain-dfbc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096516677738:android:b2df3e1ce045ad51f71a13",
+        "android_client_info": {
+          "package_name": "com.qkrnl0318.home_t"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096516677738-7kots7cv1fo9qtg4hd8h6jsn9dmvufof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qkrnl0318.home_t",
+            "certificate_hash": "c978914c569a43e58e1a6e94f5d7db76c848c863"
+          }
+        },
+        {
+          "client_id": "1096516677738-1ijgh2nisomue13sa5l191gm7lq89pbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDCGQBVylzTqBf6WkZNtlffYcGCRFW2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096516677738-1ijgh2nisomue13sa5l191gm7lq89pbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
