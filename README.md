@@ -9,4 +9,4 @@ https://play.google.com/store/apps/details?id=com.qkrnl0318.home_t
 -NFC사용\
 -Calendar 커스텀 사용\
 -테마사용\
--static 사용\
+-static 사용
