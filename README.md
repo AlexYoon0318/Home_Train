@@ -1,16 +1,12 @@
 # home_t
 
-A new Flutter application.
+https://play.google.com/store/apps/details?id=com.qkrnl0318.home_t
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+공식 출시된 앱.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-NFC사용
+-Calendar 커스텀 사용
+-테마사용
+-static 사용
